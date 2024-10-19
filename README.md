@@ -18,7 +18,7 @@
         <td>
         <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoVianaa&theme=dracula&layout=compact"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoViana&theme=dracula&layout=compact"
             alt="Github Stats"
         />
         </td>
