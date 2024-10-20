@@ -16,14 +16,15 @@
         />
         </td>
         <td>
-        <img
-            align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoVianaa&theme=dracula&layout=compact"
-            alt="Github Stats"
-        />
+        </div>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoVianaa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+<div>
         </td>
     </tr>
 </table>
+
 
 
 
