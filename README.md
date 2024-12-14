@@ -17,7 +17,7 @@
         </td>
         <td>
         </div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoViana&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoVianaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div>
