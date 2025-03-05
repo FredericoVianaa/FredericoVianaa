@@ -1,6 +1,5 @@
 # Sobre mim
 - 🎓 Estudando Engenharia de Computação no <strong><a href="https://portal1.iff.edu.br/nossos-campi/campos-centro">Instituto Federal de Educação, Ciência e Tecnologia Fluminense</a></strong></li>
-- 💼 Bolsista na FAPERJ.
 - 🤖 Integrante da equpe de robótica Goytaborgs.
 
 
